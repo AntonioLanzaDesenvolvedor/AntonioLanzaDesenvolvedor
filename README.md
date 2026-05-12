@@ -19,9 +19,3 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos com tecn
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## GitHub Stats
-
-![Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioLanzaDesenvolvedor&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLanzaDesenvolvedor&layout=compact&theme=tokyonight)
