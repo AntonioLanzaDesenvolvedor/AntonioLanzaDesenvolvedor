@@ -1,4 +1,4 @@
-# Olá, eu sou o Antônio Pernoncini Lanza 
+# Olá, me chamo Antônio!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade de Passo Fundo (UPF) e apaixonado por desenvolvimento web.
 
