@@ -7,7 +7,6 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos com tecn
 ## Contato
 
 - Email: [pernonciniantonio@gmail.com](mailto:pernonciniantonio@gmail.com)
-- GitHub: [AntonioLanzaDesenvolvedor](https://github.com/AntonioLanzaDesenvolvedor)
 - LinkedIn: [Antônio Pernoncini](https://www.linkedin.com/in/antoniopernoncini/?skipRedirect=true)
 
 ## Tecnologias
